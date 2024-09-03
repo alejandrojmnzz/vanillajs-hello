@@ -1,1 +1,8 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  font-size: xx-large;
+  text-align: center;
+}
+.altura {
+  margin-top: 280px;
+}
